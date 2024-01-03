@@ -6,4 +6,4 @@
 
 [<kbd> <br> Get Started on Cloud ➜ <br> </kbd>](http://124.223.27.177:8000) [<kbd> <br> Get Homepage ➜ <br> </kbd>](http://124.223.27.177:8080) [<kbd> <br> Self-Host ➜ <br> </kbd>](http://124.223.27.177:3000/documentation/self-host/getting-started)
 
-<sub>[Website](https://hoppscotch.com) &nbsp; • &nbsp; [Documentation](https://docs.hoppscotch.io) &nbsp; • &nbsp; [GitHub](https://github.com/hoppscotch/hoppscotch)</sub>
+<sub>[Website](http://124.223.27.177:8080) &nbsp; • &nbsp; [Documentation](http://124.223.27.177:3000) &nbsp; • &nbsp; [GitHub](https://github.com/canyon-project/canyon)</sub>
